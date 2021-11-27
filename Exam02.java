@@ -4,7 +4,7 @@ public class Exam02 {
 
 	public static void main(String[] args) {
 		
-		// ¹è¿­ÀÇ ±âº»°ª
+		// ë°°ì—´ì˜ ê¸°ë³¸ê°’
 		int[] numArray = new int[5];
 		System.out.println(Arrays.toString(numArray));
 		
